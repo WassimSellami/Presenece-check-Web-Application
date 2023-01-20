@@ -52,9 +52,8 @@ const html = `
   </head>
   <body>
     <section>
-      Si Aymen !
+      Hello from Render!
     </section>
   </body>
 </html>
 `
-
